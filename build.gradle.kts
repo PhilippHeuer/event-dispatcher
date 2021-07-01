@@ -52,7 +52,7 @@ subprojects {
     // Dependencies
     dependencies {
         // Logging
-        api(group = "org.slf4j", name = "slf4j-api", version = "1.7.30")
+        api(group = "org.slf4j", name = "slf4j-api", version = "1.7.31")
 
         // Testing
         testImplementation(group = "org.junit.jupiter", name = "junit-jupiter-api", version = "5.7.2")
